@@ -1,0 +1,23 @@
+# Visual Studio Code
+.vscode/
+
+# Compiled/executable files
+*.exe
+*.o
+*.obj
+*.dll
+
+# Build directories
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
